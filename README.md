@@ -1,2 +1,2 @@
 # Casino-Slots
-Simple text input based slot machine,
+Simple text input based slot machine.
